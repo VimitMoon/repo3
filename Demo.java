@@ -5,4 +5,3 @@ Class Demo {
   int d = a+b+c;
   System.out.println("Sum"+d);
   int z = 200;
-}
