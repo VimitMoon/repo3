@@ -4,4 +4,5 @@ Class Demo {
   int c = 30;
   int d = a+b+c;
   System.out.println("Sum"+d);
+  int z = 100;
 }
